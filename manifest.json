@@ -1,6 +1,6 @@
 {
-  "name": "Fechamento Lotofácil",
-  "short_name": "Lotofácil",
+  "name": "THOR LOTERIAS",
+  "short_name": "THOR LOTERIAS",
   "description": "Gerador de fechamentos, desdobramentos e conferidor de resultado da Lotofácil.",
   "start_url": "./index.html",
   "scope": "./",
